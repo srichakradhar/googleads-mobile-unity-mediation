@@ -1,7 +1,7 @@
 {
-  "name": "com.google.ads.mobile.mediation.line",
+  "name": "com.test.ads.mobile.mediation.line",
   "version": "1.0.0",
-  "displayName": "Google Mobile Ads LINE Mediation for Unity",
+  "displayName": "LINE Mediation for Unity Test",
   "keywords": [
     "Google",
     "Mobile",
